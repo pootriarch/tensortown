@@ -1,3 +1,9 @@
+# Project-local data
+.vscode/
+Images/
+image_vectors/
+nearest_neighbors/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
